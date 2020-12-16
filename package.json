@@ -1,0 +1,23 @@
+{
+  "name": "planetuntu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steverydz/planetuntu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steverydz/planetuntu/issues"
+  },
+  "homepage": "https://github.com/steverydz/planetuntu#readme",
+  "devDependencies": {
+    "live-server": "1.2.1"
+  }
+}
